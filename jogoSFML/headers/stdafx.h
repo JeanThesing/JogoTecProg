@@ -9,6 +9,15 @@
 //Headers do Windows
 #include <windows.h>
 
+// Headers SFML
+#include <SFML/Graphics.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/System.hpp>
+
+//Som
+//#include <SFML/Audio.hpp>  // Se for usar som
+
+
 //Headers padrão C++
 #include <iostream>
 #include <fstream>
